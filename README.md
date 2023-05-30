@@ -1,3 +1,5 @@
+[![Click CLI Test](https://github.com/vikas807/Devops-best-practice/actions/workflows/blank.yml/badge.svg)](https://github.com/vikas807/Devops-best-practice/actions/workflows/blank.yml)
+
 # Devops-best-practice
 This is devops best practice Repo
 
